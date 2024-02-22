@@ -27,7 +27,7 @@ inputs = merge(local.environment_vars,
     default_policies = ["AmazonS3OutpostsReadOnlyAccess"]
     policies = [
       {
-        name = "OutpostPolicy-jorge-rodriguez-revello"
+        name = "OutpostPolicy-jose-manuel-garcia"
         policy_as_object = {
           Version = "2012-10-17"
           Statement = [

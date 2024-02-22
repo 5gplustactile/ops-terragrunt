@@ -4,7 +4,7 @@ locals {
 
 
 terraform {
-  source = "git@github.com:andresanaya21/5gplustactile/auto-ztp.git//tf-modules/iam-user?ref=main"
+  source = "git@github.com:/5gplustactile/auto-ztp.git//tf-modules/iam-user?ref=main"
 }
 # Include all settings from the root terragrunt.hcl file
 
