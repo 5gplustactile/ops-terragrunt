@@ -44,4 +44,4 @@ backend.tf
 ****/.terragrunt-cache/*
 global_provider.tf
 global_variables.tf
-versions.tf
+#versions.tf
