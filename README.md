@@ -39,3 +39,7 @@ Sigue estos pasos para trabajar con los archivos de configuración:
    ```bash
    $ terragrun run-all apply --terragrunt-source-update
    ```
+
+## Licencia
+
+Este projecto es licenciado bajo [Apache](LICENSE)
