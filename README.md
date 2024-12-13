@@ -33,11 +33,11 @@ Sigue estos pasos para trabajar con los archivos de configuración:
    ```
 3. Ejecuta Terragrunt para realizar un plan de los cambios:
    ```bash
-   $ terragrun run-all plan --terragrunt-source-update
+   $ terragrunt run-all plan --terragrunt-source-update
    ```
 4. Si el plan es correcto, aplica los cambios (opcional, según permisos):
    ```bash
-   $ terragrun run-all apply --terragrunt-source-update
+   $ terragrunt run-all apply --terragrunt-source-update
    ```
 
 ## Licencia
